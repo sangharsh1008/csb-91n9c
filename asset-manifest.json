@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://sangharsh1008.github.io/csb-91n9c/static/css/main.5883a96a.chunk.css",
+    "main.js": "https://sangharsh1008.github.io/csb-91n9c/static/js/main.06ded2c9.chunk.js",
+    "main.js.map": "https://sangharsh1008.github.io/csb-91n9c/static/js/main.06ded2c9.chunk.js.map",
+    "runtime-main.js": "https://sangharsh1008.github.io/csb-91n9c/static/js/runtime-main.1ecb15b6.js",
+    "runtime-main.js.map": "https://sangharsh1008.github.io/csb-91n9c/static/js/runtime-main.1ecb15b6.js.map",
+    "static/css/2.77cf4ef6.chunk.css": "https://sangharsh1008.github.io/csb-91n9c/static/css/2.77cf4ef6.chunk.css",
+    "static/js/2.e517f4ef.chunk.js": "https://sangharsh1008.github.io/csb-91n9c/static/js/2.e517f4ef.chunk.js",
+    "static/js/2.e517f4ef.chunk.js.map": "https://sangharsh1008.github.io/csb-91n9c/static/js/2.e517f4ef.chunk.js.map",
+    "index.html": "https://sangharsh1008.github.io/csb-91n9c/index.html",
+    "static/css/2.77cf4ef6.chunk.css.map": "https://sangharsh1008.github.io/csb-91n9c/static/css/2.77cf4ef6.chunk.css.map",
+    "static/css/main.5883a96a.chunk.css.map": "https://sangharsh1008.github.io/csb-91n9c/static/css/main.5883a96a.chunk.css.map",
+    "static/js/2.e517f4ef.chunk.js.LICENSE.txt": "https://sangharsh1008.github.io/csb-91n9c/static/js/2.e517f4ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ecb15b6.js",
+    "static/css/2.77cf4ef6.chunk.css",
+    "static/js/2.e517f4ef.chunk.js",
+    "static/css/main.5883a96a.chunk.css",
+    "static/js/main.06ded2c9.chunk.js"
+  ]
+}
